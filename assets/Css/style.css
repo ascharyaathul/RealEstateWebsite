@@ -1,0 +1,1171 @@
+.container {
+  /* height: 100%; */
+  /* width: 60vw; */
+  /* display: flex; */
+  position: relative;
+
+}
+.nice {
+  color: white;
+  margin-top: 65px;
+  
+}
+
+.element{
+  color: white;
+  margin-top: 10px;
+  
+}
+.lastdiv{
+  background-color: black;
+  /* width: 79vw; */
+  height: 40vh;
+  margin-top: 13px;
+  padding: 20px;
+  
+}
+.submitt{
+  color:white;
+  background-color: black;
+  width: 10%;
+  /* padding: 10px; */
+  border-radius: 10px;
+
+}
+.buttondiv1{
+  padding: 17px;
+
+}
+.buttondiv2{
+  padding: 17px;
+
+
+}
+
+.text{
+  padding: 12px;
+  width: 300px;
+  border-color: white;
+  border-radius: 20px;
+  border: none;
+  
+}
+
+.dreamhouse{
+  /* width: 79vw; */
+  height: 60vh;
+  background-color: lavender;
+  padding: 35px;
+  margin-top: 20px;
+}
+.proin{
+  font-size: small;
+}
+  .reviews{
+    background-color: rgb(247, 191, 210);
+    border-radius: 30px;
+  }
+
+.explore {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.explore-cards{
+  justify-content: space-around;
+  margin-top: 20px !important;
+}
+.explore-card{
+  background-color: lavender;
+  max-height: 100%;
+  margin: 1px;
+  border-radius: 1rem;
+  /* min-height: 20%; */
+}
+.explore-img{
+  /* height: 100%; */
+    width: 100%;
+    border-radius: 1rem;
+    padding: 20px;
+}
+
+.img1 {
+  transition: transform .3s ease-out;
+
+  margin-bottom: 50px;
+  border-radius: 15px;
+  padding: 50px;
+  top: 20px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 396px;
+  background-image: url("../Images/apartment-building-city-with-copy-space - Copy.jpg")
+}
+
+.img1:hover {
+
+  transform: scale(1.05);
+}
+
+.p1 {
+  transition: all .5s ease-out;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 47px;
+  margin-top: 20px;
+}
+
+.p2 {
+
+  font-family: "Ubuntu", sans-serif;
+  font-size: 47px;
+  margin-top: -21px;
+}
+
+.p3 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 11px;
+  margin-top: 9px;
+}
+
+.p4 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 11px;
+  margin-top: 9px;
+
+}
+
+.p5 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: "Oswald", sans-serif;
+  font-size: 12px;
+  margin-left: 59px;
+  margin-top: -34px;
+}
+
+.input {
+
+  /* width:50px; */
+  color: antiquewhite;
+  padding: 50px;
+  background-color: darkgrey;
+}
+
+.border {
+  border-color: gainsboro;
+  padding: 10px;
+  border-radius: 20px;
+  /* width: 411px; */
+
+}
+
+.form {
+  /* background-color: darkgray; */
+  padding: 4px;
+  display: flex;
+  width: 20px;
+
+
+}
+
+.divform {
+  padding: 10px;
+  background-color: rgb(202, 201, 201);
+  border-radius: 18px;
+  /* width: 362px; */
+  padding-right: 135px;
+}
+
+.button {
+  border-radius: 15px;
+  width: 88px;
+  height: 44px;
+  margin-left: 28px;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+
+.divbtn {
+  display: inline-flex;
+
+
+}
+
+.card1 {
+  width: 246px;
+  height: 100px;
+  margin-top: 20px;
+
+
+
+}
+
+.sec {
+  background-color: rgba(237, 243, 249, 0.92);
+}
+
+.card-img-top1 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 47px;
+}
+
+.card-title1 {
+  text-align: center;
+  margin-top: 16px;
+
+}
+
+.card-title2 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+}
+
+.card-img-top2 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-title3 {
+  text-align: center;
+  margin-top: 17px;
+  margin-right: -43px;
+}
+
+.card-title4 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+  margin-right: -46px;
+}
+
+.card-img-top3 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-title5 {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: -46px;
+}
+
+.card-title6 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+  margin-right: -46px;
+}
+
+.card-img-top4 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-title7 {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: -46px;
+}
+
+.card-title8 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+  margin-right: -46px;
+}
+
+.card-img-top5 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-title9 {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: -46px;
+}
+
+.card-title10 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+  margin-right: -46px;
+}
+
+.card-img-top6 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-title11 {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: -46px;
+}
+
+.card-title12 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+  margin-right: -46px;
+}
+
+.card-img-top7 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-img-top13 {
+  width: 154px;
+  height: 158px;
+  border-radius: 102px;
+  margin-left: 38px;
+  margin-top: 68px;
+}
+
+.card-title13 {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: -46px;
+}
+
+.card-title14 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 8px;
+  margin-right: -46px;
+}
+
+.sec2 {}
+
+.pro {
+  margin-top: 35px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 50px;
+}
+
+.prodiv {
+
+  width: 100vw;
+  height: 30vh;
+
+
+
+}
+
+.image {
+  margin-top: 8px;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.free {
+  margin-top: -34px;
+  margin-left: 86px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: blue;
+}
+
+.view {
+  width: 139px;
+  height: 36px;
+  border-radius: 14px;
+  color: white;
+  background-color: black;
+}
+
+.card-body1 {
+
+  position: absolute;
+  background-color: white;
+  height: 100px;
+  border-radius: 15px;
+  width: 330px;
+  top: auto;
+  bottom: 5px;
+  right: 10px;
+  left: 10px;
+  padding: 10px;
+
+
+}
+
+.card-img-topn2 {
+  width: 350px;
+  height: 250px;
+  margin-top: 50px;
+  border-radius: 20px;
+
+
+}
+
+.card-body2 {
+
+  position: absolute;
+  background-color: white;
+  height: 100px;
+  border-radius: 16px;
+  width: 330px;
+  top: 330px;
+  left: 400px;
+  padding: 10px;
+
+}
+
+.card-body3 {
+
+  position: absolute;
+  background-color: white;
+  height: 100px;
+  border-radius: 16px;
+  width: 330px;
+  top: 330px;
+  left: 780px;
+  padding: 10px;
+}
+
+.card-img-topn2 {
+  width: 350px;
+  height: 250px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.card-body4 {
+
+  position: absolute;
+  background-color: white;
+  height: 100px;
+  border-radius: 16px;
+  width: 330px;
+  top: 650px;
+  left: 22px;
+  padding: 10px;
+}
+
+.card-body5 {
+
+  position: absolute;
+  background-color: white;
+  height: 100px;
+  border-radius: 16px;
+  width: 330px;
+  top: 650px;
+  left: 402px;
+  padding: 10px;
+}
+
+.card-body6 {
+
+  position: absolute;
+  background-color: white;
+  height: 100px;
+  border-radius: 16px;
+  width: 330px;
+  top: 650px;
+  left: 782px;
+  padding: 10px;
+}
+
+.tr1 {
+  transition: transform .3s ease-out;
+  /* position: relative; */
+}
+
+.tr1:hover {
+  transform: scale(1.05);
+
+
+}
+
+.sec3 {}
+
+.container4 {
+  margin-top: 81px;
+  padding: 70px;
+}
+
+.imagediv {
+  /* height: 200vh; */
+  width: 39vw;
+}
+
+.firstdiv {
+  height: 150vh;
+  width: 39vw;
+  background-color: rgb(240, 222, 240);
+  border-radius: 20px;
+  padding: 40px;
+  margin-top: 40px;
+}
+
+.capdiv {
+  margin-top: 40px;
+  padding: 10px;
+
+}
+
+.cap4 {
+  margin-left: 105px;
+  margin-top: -45px;
+  color: blue;
+  font-size: medium;
+  font-family: sans-serif;
+}
+
+.cap1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+}
+
+.cap2 {
+  font-size: medium;
+  font-family: sans-serif;
+  margin-top: 70px;
+  padding: 20px;
+}
+
+.mng {
+  margin-left: 90px;
+  margin-top: -42px;
+}
+
+.para1 {
+  margin-left: 89px;
+}
+
+/* .fa-solid {
+  margin-top: 20px;
+  
+
+} */
+
+.mortgage {
+  margin-top: -32px;
+  margin-left: 86px;
+}
+
+
+.currency {
+  margin-left: 86px;
+  margin-top: -44px;
+}
+
+.fa-solid {
+  
+
+  transition: transform .3s ease-out;
+}
+
+.fa-solid:hover {
+  transform: scale(1.05);
+}
+
+.sub3 {
+  border-radius: 10px;
+}
+
+.img-fluid {
+  border-radius: 20px;
+  transition: transform .3s ease-out;
+}
+
+.img-fluid:hover {
+  transform: scale(1.05);
+}
+
+.sec4 {}
+
+.divsingle {
+  display: flex;
+  /* position: absolute; */
+  width: 100vw;
+  height: 50vh;
+  background-color: rgb(248, 212, 218);
+  /* top: 2700px; */
+  padding: 100px;
+}
+
+.h20k {
+  margin-top: 30px;
+  padding-left: 40px;
+
+}
+
+.para2 {
+  margin-top: 80px;
+  margin-left: -78px;
+}
+
+.h14k {
+  margin-top: 30px;
+  padding-left: 20px;
+  margin-left: 290px;
+}
+
+.para3 {
+  margin-top: 80px;
+  margin-left: -78px;
+}
+
+.h2m {
+  margin-top: 30px;
+  padding-left: 20px;
+  margin-left: 290px;
+}
+
+.para4 {
+  margin-top: 80px;
+  margin-left: -78px;
+}
+
+.sec5 {}
+
+.ex {
+  margin-top: 20px;
+  font-family: monospace;
+  font-size: 50px;
+
+  /* padding: 20px; */
+}
+
+.from {
+  margin-top: 3px;
+  font-family: monospace;
+  font-size: large;
+}
+
+.freepikk {
+  margin-top: -23px;
+  float: right;
+  margin-right: 950px;
+  font-family: monospace;
+  font-size: large;
+  color: blue;
+
+
+}
+
+.view {
+  margin-left: 4px;
+
+}
+
+.card-img-topn1 {
+
+  transition: transform .3s ease-out;
+}
+
+.card-img-topn1:hover {
+  transform: scale(1.05);
+}
+
+.cardn1 {
+  background-color: lavender;
+  width: 500px;
+  padding: 20px;
+  margin-top: 10px;
+
+}
+
+
+
+.div1n {
+  border-radius: 20px;
+  background-color: lavender;
+  align-content: center;
+ 
+ 
+
+}
+
+.div1n h2{
+  font-size: xxx-large;
+  margin-bottom: 20px;
+}
+
+.trusted {
+  margin-top: 34px;
+  padding: 20px;
+
+}
+
+.best {
+  margin-top: -44px;
+  padding: 20px;
+  font-family: fantasy;
+}
+
+.sample {
+  margin-left: 22px;
+}
+
+.ul {
+  list-style: circle;
+
+}
+
+.fpik {
+  margin-left: 33px;
+  font-size: small;
+}
+
+/* .divn1 {
+  width: 36vh;
+  height: 500px;
+  background-color: pink;
+  margin-top: -1500px;
+  margin-left: 650px;
+  border-radius: 20px;
+  padding: 20px;
+} */
+
+  
+
+  
+
+.ce {
+  font-size: 20px;
+}
+
+/* .lavender {
+  display: flex;
+  /* position: absolute; */
+  background-color: lavenderblush;
+  width: 100vw;
+  height: 200px;
+  margin-top: 100px;
+  margin-left: -680px;
+  border-radius: 10px;
+  padding: 10px;
+
+} */
+
+/* .psam {
+  margin-top: 60px;
+  margin-left: -409px;
+
+} */
+
+/* .text {
+  width: 400px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 10px;
+  border-color: white;
+}
+
+.name {
+  margin-top: 114px;
+  margin-left: -312px;
+}
+
+.email {
+  margin-top: 110px;
+  margin-left: 216px;
+}
+
+.address {
+  width: 400px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 10px;
+  border-color: white;
+
+}
+
+.submitt {
+  width: 90px;
+  height: 35px;
+  margin-top: 100px;
+  padding: 10px;
+  margin-left: 10px;
+  padding-bottom: 20px;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+
+}
+
+.last {
+  display: flex;
+  /* position: absolute; */
+  background-color: black;
+  width: 100vw;
+  height: 200px;
+  margin-top: 3px;
+  margin-left: -680px;
+  border-radius: 10px;
+  padding: 10px;
+
+
+/* .element {
+  color: white;
+  margin-top: 30px;
+  margin-left: 430px;
+} */
+
+
+
+
+
+@media (max-width: 575.98px) {
+  .p1 {
+    font-size: 35px;
+  }
+
+  .p2 {
+
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 1029px) {
+
+  .card-img-topn1 {
+    width: 146px;
+
+    margin-top: 35px;
+
+
+
+    transition: transform .3s ease-out;
+  }
+
+  .card-img-topn1:hover {
+    transform: scale(1.05);
+  }
+
+  .card-img-topn2 {
+    margin-top: 35px;
+  }
+
+
+}
+
+@media (max-width:995px) {
+
+  /* .img-fluid{ */
+  /* border-radius: 20px; */
+  /* transition: transform .3s ease-out ; */
+  /* width: 50%; */
+  /* } */
+  .img-fluid:hover {
+    transform: scale(1.05);
+  }
+}
+
+@media (max-width:820px) {
+  .firstdiv {
+
+
+
+    height: 150vh;
+    background-color: rgb(248, 212, 218);
+    margin-top: 40px;
+    padding: 10px;
+  }
+}
+
+@media (max-width:820px) {
+  .divsingle {
+    display: flex;
+    /* position: absolute; */
+    width: 100vw;
+    height: 50vh;
+    background-color: rgb(248, 212, 218);
+    /* top: 4206px; */
+    padding: 100px;
+  }
+
+  .ex {
+    font-size: 15px;
+    margin-top: -289px;
+  }
+
+ 
+}
+
+@media (max-width:442px) {
+  .firstdiv {
+    height: 180vh;
+    margin-top: 700px;
+  }
+
+  .img-fluid {
+    max-width: 51%;
+    margin-top: 127px;
+  }
+
+  .cap1 {
+    font-size: small;
+  }
+
+  .mng {
+    font-size: small;
+    margin-left: 54px;
+  }
+
+  .mortgage {
+    font-size: small;
+    margin-left: 59px;
+  }
+
+  /* .fa-solid {
+    margin-left: 2px;
+  } */
+
+  .currency {
+    font-size: small;
+    margin-left: 65px;
+  }
+}
+
+@media (max-width:375px) {
+
+  .cap1 {
+    font-size: small;
+  }
+
+  .mng {
+    font-size: small;
+    margin-left: 54px;
+  }
+
+  .mortgage {
+    font-size: small;
+    margin-left: 59px;
+  }
+
+  /* .fa-solid {
+    margin-left: 2px;
+  } */
+
+  .currency {
+    font-size: small;
+    margin-left: 65px;
+  }
+
+  .firstdiv {
+    height: 139vh;
+    margin-top: 700px;
+
+  }
+}
+
+@media (max-width:370px) {
+  .divsingle {
+    top: 4330px;
+    display: flex;
+
+    width: 200vw;
+    height: 50vh;
+    background-color: rgb(248, 212, 218);
+    /* top: 4240px; */
+    padding: 100px
+  }
+
+  .img-fluid {
+    margin-top: 8px;
+  }
+
+  .ex {
+    margin-top: -558px;
+  }
+
+  .cardn1 {
+    width: 500px;
+    padding: 20px;
+  }
+}
+
+
+@media (max-width:913px) {
+.divsingle{
+  height: 49vh;
+  padding: -2px;
+
+  
+}
+
+
+}
+
+@media (max-width:904px) {
+.h20k{
+  padding-left: 0px;
+  margin-left: -69px;
+
+}
+.h14k{
+  padding-left: 0px;
+  margin-left: 47px;
+}
+.h2m{
+  padding-left: 0px;
+  margin-left: 35px;
+}
+.para2{
+  font-size: small;
+}
+
+}
+@media (max-width:809px) {
+.submitt{
+  padding: 0px;
+
+}
+  
+}
+@media (max-width:720px) {
+  .submitt{
+    font-size: small;
+  }
+}
+@media (max-width:596px) {
+.submitt{
+padding: 10px;
+width: 73px;
+}
+}
+@media (max-width:387px) {
+.submitt{
+  padding: 0px;
+}
+.lastdiv{
+  margin-top: 78px;
+}
+
+
+}
+@media (max-width:365px) {
+  .dreamhouse{
+    height: 53vh;
+  }
+}
+@media (max-width:335px) {
+  .dreamhouse{
+    height: 68vh;
+  }
+}
+@media (max-width:592px) {
+.Email{
+  /* float: left; */
+  /* margin-top: 35px; */
+}
+}
+@media (max-width:350px) {
+  .Email{
+    margin-top:5px;
+  }
+}
+@media (max-width:414px) {
+  .dreamhouse{
+    height: 70vh;
+  }
+}
+
+
+@media (max-width:410px) {
+  .dreamhouse{
+    height: 70vh;
+  }
+}
+@media (max-width:1016px) {
+  .buttondiv{
+    padding: 1px;
+    
+  }
+}
+@media (max-width:976px) {
+  .text{
+    width: 191px;
+    padding: 2px;
+  }
+  .name{
+    font-size: smaller;
+  }
+  .Email{
+    font-size: smaller;
+  }
+}
+@media (max-width:888px) {
+.submitt{
+  font-size: smaller;
+}
+}
+@media (max-width:709px) {
+.submitt{
+  font-size: smaller;
+}
+}
+@media (max-width:472px) {
+  .submitt{
+    padding: 2px;
+    font-size: smaller;
+    margin-top: 20px;
+  }
+}
+@media (max-width:468px) {
+.dreamhouse{
+  height: 77vh;
+
+}
+
+}
+@media (max-width:540px) {
+  .p1{
+    font-size: large;
+  }
+  .p2{
+    font-size: large;
+  }
+  .divform{
+    padding: 0px;
+  }
+}
+@media (max-width:396px) {
+.button{
+  padding: 0px;
+  font-size: small;
+}
+}
+
+@media (max-width:380px) {
+
+  .button{
+  
+  }
+}
